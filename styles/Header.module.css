@@ -1,0 +1,47 @@
+.layoutHeader {
+    padding: 30px;
+    flex: 0 1 40%;
+    font-size: 1.5rem;
+  }
+  .layoutFooter {
+    color: aqua;
+    background-color: orange;
+    padding: 30px;
+    text-align: center;
+  }
+  .navContainer {
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    flex-wrap: wrap;
+  }
+  .headerUl {
+    display: flex;
+    list-style: none;
+    flex-basis: 50%;
+    flex-grow: 0;
+    justify-content: flex-end;
+  }
+  .headerLi {
+    padding: 15px;
+    font-size: 1.5rem;
+  }
+  @media only screen and (max-width: 685px) {
+    .headerUl {
+  
+    }
+    .navContainer {
+  
+      text-align: center;
+
+    }
+    .headerLi{
+      padding: 3%;
+      font-size: 1rem;
+    }
+    .layoutHeader {
+      padding: 4%;
+      font-size: 1rem;
+    }
+  }
+  

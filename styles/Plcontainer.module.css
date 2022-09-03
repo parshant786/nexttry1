@@ -1,0 +1,7 @@
+.PLContainer {
+  display: grid;
+  justify-content: space-around;
+
+  grid-template-columns: repeat(4, 150px);
+  grid-gap: 12px;
+}

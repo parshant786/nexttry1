@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "macrone",
+      "imgUrl": "/macrone.jpg",
+      "price": 47,
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "name": "rote",
+      "imgUrl": "/rotiRole.jpg",
+      "price": 49,
+      "amount": 1
+    },
+    {
+      "id": 4,
+      "name": "BURGER",
+      "imgUrl": "/burger.jpg",
+      "price": 49,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "name": "BURGER",
+      "imgUrl": "/burger.jpg",
+      "price": 40,
+      "amount": 1
+    },
+    {
+      "id": 6,
+      "name": "BURGER",
+      "imgUrl": "/burger.jpg",
+      "price": 50,
+      "amount": 1
+    },
+    {
+      "id": 7,
+      "name": "BURGER",
+      "imgUrl": "/burger.jpg",
+      "price": 46,
+      "amount": 1
+    },
+    {
+      "id": 8,
+      "name": "BURGER",
+      "imgUrl": "/burger.jpg",
+      "price": 46,
+      "amount": 1
+    }
+  ]
+}
